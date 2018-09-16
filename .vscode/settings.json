@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "led.h": "c",
+        "delay.h": "c",
+        "mcu_gpio.h": "c"
+    }
+}
